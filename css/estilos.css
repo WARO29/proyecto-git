@@ -8,4 +8,12 @@
 }
 
 
+ .jumbotron{
+    background-image: url("../img/3409297.jpg");
+    background-size:cover;
+    color:white;
+}
  
+hr{
+    background-color:white;
+}
